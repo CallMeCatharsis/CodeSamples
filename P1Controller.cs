@@ -8,7 +8,7 @@ It moves the paddle with a physics-based movement system and
 contains logic that prevents the player from moving off the screen
 and for reacting to the collision of enemy projectiles.
 
-https://github.com/CallMeCatharsis
+https://github.com/RobAdamsDev
 hirobadams@gmail.com
 */
 
