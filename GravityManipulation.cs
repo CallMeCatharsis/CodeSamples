@@ -8,7 +8,7 @@ As well as reversing global gravity the script also spherically interpolates
 the player controller to smoothly animate a 180 flip motion along the z axis,
 and uses dot product to identify if the controller is perfectly upright or upside-down.
 
-https://github.com/CallMeCatharsis
+https://github.com/RobAdamsDev
 hirobadams@gmail.com
 */
 
