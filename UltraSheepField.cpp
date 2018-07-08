@@ -8,7 +8,7 @@ function for all parts of the game. It also contains the small ExitCheck
 function used in the main game loop for checking if "Exit" has been chosen
 from the main menu.
 
-https://github.com/CallMeCatharsis
+https://github.com/RobAdamsDev
 hirobadams@gmail.com
 */
 
