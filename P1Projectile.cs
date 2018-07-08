@@ -9,7 +9,7 @@ them when they leave the screenspace from either the left or right edges.
 With the inverse tangent and quaternion spherical linear interpolation
 functions, the projectile smoothly turns to face the direction it is travelling.
 
-https://github.com/CallMeCatharsis
+https://github.com/RobAdamsDev
 hirobadams@gmail.com
 */
 
